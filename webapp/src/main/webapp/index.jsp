@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** Flipkart summer offers are available **** </h1>   
+         <h1> **** Practice Jenkins with Tomcat **** </h1>   
 	 
 
     </section>    
